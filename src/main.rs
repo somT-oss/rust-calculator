@@ -6,7 +6,7 @@ struct Claculator{
     num2: i32
 }
 
-// Implementation for the Calculator truct
+// Implementation for the Calculator struct
 impl Claculator {
     // This is the new function for the struct that defines a base Calculator struct 
     fn new() -> Self {
